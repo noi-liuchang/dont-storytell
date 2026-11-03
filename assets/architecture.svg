@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="688" viewBox="0 0 1040 688" xml:lang="zh-CN" role="img" aria-labelledby="title desc">
+<title id="title">Don’t Storytell. 的架构与处理思想</title>
+<desc id="desc">从真实资料里找商业成功、社会正义和创始人底色的交集。以这个 Vision 编排故事序列，每次在观众见证下履约，根据结果修订下一幕。输出叙事策略一页纸。</desc>
+<style>
+text{font-family:'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;fill:#20201f}
+.legend{font-size:17px;font-weight:600;letter-spacing:.8px}.tiny{font-size:18px}.caption{font-size:22px}.label{font-size:29px;font-weight:600}.math{font-size:43px;font-weight:650;letter-spacing:-1.1px}.red{fill:#bd3b2c}.white{fill:#fff}.muted{fill:#555550}.num{font: 500 17px 'SF Mono',Menlo,monospace;fill:#ae382c}
+</style>
+<defs><marker id="r" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1 L6.5 4 L1 7" fill="none" stroke="#bd3b2c" stroke-width="1.7"/></marker></defs>
+<rect width="1040" height="688" fill="#fff"/>
+<g transform="translate(0 0)">
+<path d="M30 5H1010" stroke="#20201f" stroke-width="3"/>
+<text x="30" y="37" class="legend">DON’T STORYTELL.　/　方法图</text><text x="1010" y="37" text-anchor="end" class="tiny muted">输入　产品、经营记录、作品、访谈</text>
+<text x="30" y="103" class="math">好叙事 <tspan fill="#bd3b2c">=</tspan> 好 Vision <tspan fill="#bd3b2c">×</tspan> 好剧本 <tspan fill="#bd3b2c">×</tspan> 持续履约</text>
+<rect x="30" y="137" width="310" height="91" fill="#f4f2ee"/><rect x="365" y="137" width="310" height="91" fill="#f4f2ee"/><rect x="700" y="137" width="310" height="91" fill="#f4f2ee"/>
+<text x="185" y="174" class="label" text-anchor="middle">商业成功</text><text x="185" y="208" class="caption" text-anchor="middle">这门生意怎样做得久？</text>
+<text x="520" y="174" class="label" text-anchor="middle">社会正义</text><text x="520" y="208" class="caption" text-anchor="middle">做成了，谁的处境会更好？</text>
+<text x="855" y="174" class="label" text-anchor="middle">创始人底色</text><text x="855" y="208" class="caption" text-anchor="middle">为什么偏偏是你来做？</text>
+<g fill="none" stroke="#bd3b2c" stroke-width="1.8"><path d="M185 228 V246 H855 V228"/><path d="M520 228 V265" marker-end="url(#r)"/></g>
+<rect x="30" y="272" width="980" height="66" fill="#252423"/>
+<text x="49" y="313" class="num" style="fill:#ffc0ae">01</text><text x="89" y="315" class="label white">好 Vision</text><path d="M277 287v35" stroke="#77716f"/>
+<text x="303" y="315" class="caption white">从三者的交集，找到一个值得追、也属于你的未来。</text>
+<text x="49" y="392" class="num">02</text><text x="89" y="395" class="label">好剧本</text>
+<text x="287" y="385" class="label" style="font-size:24px">人物与分歧</text><text x="514" y="385" class="label" style="font-size:24px">能看见的一幕</text><text x="779" y="385" class="label" style="font-size:24px">有条件的下一幕</text>
+<g fill="none" stroke="#bd3b2c" stroke-width="1.8"><path d="M430 378h53" marker-end="url(#r)"/><path d="M685 378h63" marker-end="url(#r)"/></g>
+<text x="287" y="423" class="caption muted">谁为什么在意</text><text x="514" y="423" class="caption muted">一次真实选择</text><text x="779" y="423" class="caption muted">谁还想知道后来</text>
+<path d="M30 451H1010" stroke="#c6c3bd"/>
+<text x="49" y="500" class="num">03</text><text x="89" y="503" class="label">持续履约</text>
+<text x="287" y="499" class="caption">观众见证结果，决定是否相信、是否参与。</text>
+<text x="287" y="535" class="caption">看清这一步留下的能力与关系，再修订下一幕。</text>
+<path d="M886 518 H982 V438 H956" fill="none" stroke="#bd3b2c" stroke-width="1.8" marker-end="url(#r)"/>
+<path d="M30 570H1010" stroke="#20201f" stroke-width="2"/>
+<text x="30" y="610" class="legend red">交付</text><text x="104" y="613" class="label">叙事策略一页纸</text><text x="30" y="654" class="caption muted">一件值得追的事　 /　 谁要作出选择　 /　 下一幕如何发生　 /　 第一次履约</text>
+</g></svg>
