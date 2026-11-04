@@ -1,4 +1,4 @@
 interface:
-  display_name: "NOI 系统叙事工程"
-  short_description: "为公司、产品和个人找到值得追的 Vision，从真实人物和商业选择写出有剧情的一页策略"
-  default_prompt: "用 $noi-narrative-engineering 读我的材料，给我一页叙事策略，写清值得追的 Vision、下一段剧情和第一步怎么兑现。"
+  display_name: "Don’t Storytell. · NOI 叙事"
+  short_description: "从真实材料提出有取舍的判断，把 Vision、连续剧情和履约接成一页叙事策略"
+  default_prompt: "用 $noi-narrative-engineering 读我的材料，给我一页叙事策略，写清值得押的判断、Vision、连续剧情和第一步怎么兑现。"
