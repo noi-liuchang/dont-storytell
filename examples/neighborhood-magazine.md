@@ -1,5 +1,7 @@
 # 完整示范 · 街区杂志
 
+[English](neighborhood-magazine.en.md) · **简体中文**
+
 本例为虚构情境和顾问候选建议，未实施，未经作者定稿。
 
 ## 输入
@@ -37,4 +39,4 @@
 
 未来画面、合作条件与各期行动均为建议。创办者的具体经历未知，不能用这份方案替其证明底色。
 
-[同版 JSON](neighborhood-magazine.json) · [返回使用说明](../README.md)
+[同版 JSON](neighborhood-magazine.json) · [返回使用说明](../README.zh-CN.md)

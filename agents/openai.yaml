@@ -1,4 +1,4 @@
 interface:
-  display_name: "Don’t Storytell. · NOI 叙事"
-  short_description: "从真实材料提出有取舍的判断，把 Vision、连续剧情和履约接成一页叙事策略"
-  default_prompt: "用 $noi-narrative-engineering 读我的材料，给我一页叙事策略，写清值得押的判断、Vision、连续剧情和第一步怎么兑现。"
+  display_name: "Don’t Storytell."
+  short_description: "Turn evidence and choices into a one-page narrative strategy."
+  default_prompt: "Use $noi-narrative-engineering to read my materials and create a one-page narrative strategy: a supported judgment, a vision, a connected path, and the first promise to keep."

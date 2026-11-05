@@ -1,6 +1,6 @@
 ---
 name: noi-narrative-engineering
-description: 用 noi 的系统叙事方法，把公司、产品、个人的资料整理成一页叙事策略。先提出有依据、有取舍的判断，再形成 Vision、连续剧情和第一步履约。适合带着 BP、访谈、作品或一个起步念头来问如何活成故事。
+description: Use noi's narrative engineering method to turn materials about a company, product, or person into a one-page strategy. Start with a supported judgment and its trade-offs, then develop a vision, a causal path, and the first promise to keep. Use when someone brings a pitch deck, interviews, work, or an initial idea and wants to become the story.
 ---
 
 # Don’t Storytell. · 不要叙事，活成故事
